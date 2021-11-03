@@ -16,3 +16,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/id193175691)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/андрей-ершов-6b16051b8)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/rutikey_one/?hl=ru)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutikeyone&theme=radical)](https://github.com/rutikeyone)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikeyone&layout=compact)](https://github.com/rutikeyone)
+
+
+
