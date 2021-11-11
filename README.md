@@ -2,6 +2,8 @@
 
 ### I am a beginner java android developer.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutikeyone&theme=radical)](https://github.com/rutikeyone)
+
 ## Languages and Tools 
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
@@ -17,9 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](www.linkedin.com/in/андрей-ершов-6b16051b8)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/rutikey_one/?hl=ru)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutikeyone&theme=radical)](https://github.com/rutikeyone)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikeyone&layout=compact)](https://github.com/rutikeyone)
 
 
 
