@@ -7,6 +7,7 @@
 ## Languages and Tools 
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-090909?style=for-the-badge&logo=eclipse)
 ![Junit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit)
