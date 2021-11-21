@@ -1,7 +1,5 @@
 ![Header](https://github.com/RuTiKeyOne/rutikeyone/blob/main/assets/background.jpg)
 
-### I am a beginner android developer.
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutikeyone&theme=radical)](https://github.com/rutikeyone)
 
 ## Languages and Tools 
