@@ -11,6 +11,7 @@
 ![Junit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit)
 ![Espresso](https://img.shields.io/badge/-Espresso-090909?style=for-the-badge&logo=espresso)
 ![Sql-lite](https://img.shields.io/badge/-Sql_lite-090909?style=for-the-badge&logo=sql_lite)
+![Jetpack-compose](https://img.shields.io/badge/-Jetpack_Compose-090909?style=for-the-badge&logo=jetpack_compose)
 
 ## How can you contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rutikeyone_one)
