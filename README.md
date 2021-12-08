@@ -1,5 +1,3 @@
-![Header](https://github.com/RuTiKeyOne/rutikeyone/blob/main/assets/background.jpg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuTiKeyOne&show_icons=true&theme=radical)
 
 ## Languages and Tools 
