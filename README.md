@@ -2,15 +2,15 @@
 
 ## Languages and Tools 
 
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter)
+![VsCode](https://img.shields.io/badge/-Visual_Studio_Code-090909?style=for-the-badge&logo=visualstudiocode)
 ![Android_Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-090909?style=for-the-badge&logo=eclipse)
-![Junit](https://img.shields.io/badge/-Junit-090909?style=for-the-badge&logo=junit)
-![Espresso](https://img.shields.io/badge/-Espresso-090909?style=for-the-badge&logo=espresso)
+![Hive](https://img.shields.io/badge/-Hive-090909?style=for-the-badge&logo=hive)
 ![Sql-lite](https://img.shields.io/badge/-Sql_lite-090909?style=for-the-badge&logo=sql_lite)
-![Jetpack-compose](https://img.shields.io/badge/-Jetpack_Compose-090909?style=for-the-badge&logo=jetpack_compose)
-
+![Bloc](https://img.shields.io/badge/-Bloc-090909?style=for-the-badge&logo=bloc)
+![Http](https://img.shields.io/badge/-http-090909?style=for-the-badge&logo=http)
+![GetIt](https://img.shields.io/badge/-Get_it-090909?style=for-the-badge&logo=get_it)
 ## How can you contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rutikeyone_one)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/id193175691)
