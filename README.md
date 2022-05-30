@@ -11,6 +11,7 @@
 ![Bloc](https://img.shields.io/badge/-Bloc-090909?style=for-the-badge&logo=bloc)
 ![Http](https://img.shields.io/badge/-http-090909?style=for-the-badge&logo=http)
 ![GetIt](https://img.shields.io/badge/-Get_it-090909?style=for-the-badge&logo=get_it)
+![Get](https://img.shields.io/badge/-Get-090909?style=for-the-badge&logo=get)
 ## How can you contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rutikeyone_one)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/id193175691)
