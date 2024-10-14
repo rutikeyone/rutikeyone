@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuTiKeyOne&show_icons=true&theme=radical)
-
 ## Languages and Tools 
 
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart)
