@@ -17,6 +17,19 @@ My education: Bachelor's degree in Computer Science and Engineering.
 ![GetIt](https://img.shields.io/badge/-Get_it-090909?style=for-the-badge&logo=get_it)
 ![Get](https://img.shields.io/badge/-Get-090909?style=for-the-badge&logo=get)
 ![Mobx](https://img.shields.io/badge/-mobx-090909?style=for-the-badge&logo=mobx)
+---
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+![Jetpack_Compose](https://img.shields.io/badge/-Jetpack_Compose-090909?style=for-the-badge&logo=jetpackcompose)
+![View](https://img.shields.io/badge/-View-090909?style=for-the-badge&logo=view)
+![Clean_Architecture](https://img.shields.io/badge/-Clean_Architecture-090909?style=for-the-badge&logo=cleanarchitecture)
+![Kotlin_Coroutines](https://img.shields.io/badge/-Kotlin_Coroutines-090909?style=for-the-badge&logo=kotlincoroutines)
+![Room](https://img.shields.io/badge/-Room-090909?style=for-the-badge&logo=room)
+![SharedPreferences](https://img.shields.io/badge/-Shared_Preferences-090909?style=for-the-badge&logo=sharedpreferences)
+![Daggee2](https://img.shields.io/badge/-Dagger2-090909?style=for-the-badge&logo=dagger2)
+![Hilt](https://img.shields.io/badge/-Hilt-090909?style=for-the-badge&logo=hilt)
+![Retrofit](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=retrofit)
+![Okhttp](https://img.shields.io/badge/-Okhttp-090909?style=for-the-badge&logo=okhttp)
 
 ## How can you contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rutikeyone_one)
