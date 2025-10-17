@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Leading Mobile Developer, currently working at [UniqTripSoft](https://uniqtripsoft.ru/).
+I'm a Leading Mobile Developer, currently working at [Doctis](https://www.doctis.ru/).
 
 My education: Bachelor's degree in Computer Science and Engineering.
 
